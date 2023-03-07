@@ -1,3 +1,7 @@
+---
+lang: ja
+---
+
 ## nlp4j.github.io
 
 [https://nlp4j.github.io/](https://nlp4j.github.io/)
